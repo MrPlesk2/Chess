@@ -3,7 +3,7 @@ package Chess;
 public class Empty extends ChessFigure {
 
     public Empty(int x, int y) {
-        super(x, y, true, '\u9632', false);
+        super(x, y, true, '\u2B1C', false);
     }
 
     @Override
